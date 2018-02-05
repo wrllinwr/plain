@@ -1,4 +1,4 @@
-# 书和有趣的事情
+书和有趣的事情
 
 《The roots of Lisp》
 
