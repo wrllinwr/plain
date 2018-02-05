@@ -1,0 +1,7 @@
+# 书和有趣的事情
+
+《The roots of Lisp》
+
+《Structure and Interpretation of Computer Programs》如何思考和编程
+
+https://github.com/evilbinary/scheme-lib
