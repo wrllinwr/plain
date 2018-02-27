@@ -2,6 +2,6 @@
 
 《The roots of Lisp》
 
-《Structure and Interpretation of Computer Programs》如何思考和编程
+《Structure and Interpretation of Computer Programs》如何思考和编程;;2018-2-26已购买 中文版
 
 https://github.com/evilbinary/scheme-lib
